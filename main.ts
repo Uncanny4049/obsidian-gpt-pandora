@@ -1,0 +1,1 @@
+export {GPTPlugin} from "./gpt"
